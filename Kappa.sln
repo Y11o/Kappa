@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kappa", "Kappa.csproj", "{CF0D2466-7716-49E8-8A95-2713879B028E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF0D2466-7716-49E8-8A95-2713879B028E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF0D2466-7716-49E8-8A95-2713879B028E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF0D2466-7716-49E8-8A95-2713879B028E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF0D2466-7716-49E8-8A95-2713879B028E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E920A826-5C7E-4BD7-A88D-24F355A36DA2}
+	EndGlobalSection
+EndGlobal
